@@ -1,0 +1,12 @@
+# Document Processing
+PyPDF2
+python-docx
+
+# GROQ API
+groq
+
+# Web Framework
+streamlit
+
+# Environment variables
+python-dotenv
